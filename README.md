@@ -1,7 +1,9 @@
 # image-microservice
 Returns an image from a local directory
 
-Need to install RPyC. Short tutorial https://rpyc.readthedocs.io/en/latest/tutorial.html
+Need to install RPyC. 
+[RPyC Tutorial](https://rpyc.readthedocs.io/en/latest/tutorial.html)
+
 ```
 pip install rpyc
 ```
